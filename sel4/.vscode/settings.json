@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.in": "c",
+        "basic_types.h": "c",
+        "structures_gen.h": "c",
+        "hardware.h": "c",
+        "benchmark_utilisation.h": "c",
+        "cpu_registers.h": "c",
+        "machine.h": "c",
+        "limits": "c"
+    }
+}

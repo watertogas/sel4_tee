@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "compare": "cpp",
+        "common.h": "c",
+        "printf.h": "c",
+        "smp.h": "c",
+        "structures.h": "c",
+        "efi.h": "c"
+    }
+}
